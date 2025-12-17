@@ -1,3 +1,6 @@
+//reg: S08_8443_2024
+//name:samwel ongori 
+
 public class VacationCost {
 
     public static double TotalCost(double accommodationCost, double mealCost, double activityCost) {
